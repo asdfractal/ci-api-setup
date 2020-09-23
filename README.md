@@ -22,7 +22,8 @@ I created a simple API using the methods shown here to add a JavaScript filter t
 ## Resources
 
 -   [Postman](https://www.postman.com/) - For testing API functionality
--   [JSON viewer awesome](https://chrome.google.com/webstore/detail/json-viewer-awesome/iemadiahhbebdklepanmkjenfdebfpfe?hl=en) - View JSON in the browser
+-   [Awesome JSON viewer](https://github.com/rbrahul/Awesome-JSON-Viewer) - View JSON in the browser
+    - Updated to show the current project link. The extension on Chrome doesn't seem to be available anymore but check this project for further information.
 -   [Flask](https://flask.palletsprojects.com/en/1.1.x/)
 -   [MongoDB](https://www.mongodb.com/)
 -   [Flask PyMongo](https://flask-pymongo.readthedocs.io/en/latest/)
