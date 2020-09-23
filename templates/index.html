@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Document</title>
+</head>
+
+<body>
+	<h1>Search by name</h1>
+	<form action="{{ url_for('api_users') }}" method="get">
+		<input type="text" name="name">
+		<button type="submit">Search</button>
+	</form>
+	<h1>Search by username</h1>
+	<form action="{{ url_for('api_users') }}" method="get">
+		<input type="text" name="username">
+		<button type="submit">Search</button>
+	</form>
+	<h1>Update DOM by username</h1>
+	<form action="{{ url_for('api_users') }}" method="get">
+		<input type="text" id="username">
+		<button type="submit" id="usernameButton">Search</button>
+	</form>
+	<div>
+		<ul id="userData"></ul>
+	</div>
+	<script src="{{url_for('static', filename='js/script.js')}}"></script>
+</body>
+
+</html>

@@ -1,0 +1,6 @@
+.venv
+.vscode
+.editorconfig
+.jshintrc
+.prettierignore
+.prettierrc
