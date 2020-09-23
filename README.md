@@ -30,6 +30,9 @@ I created a simple API using the methods shown here to add a JavaScript filter t
 -   [JSON util](https://api.mongodb.com/python/current/api/bson/json_util.html) - Included in PyMongo
 -   [jsonplaceholder](https://jsonplaceholder.typicode.com/users/) - User data used for the presentation
 
+### Video presentation
+[Youtube video](https://www.youtube.com/watch?v=qovbnh1eW_0) of the zoom call to present this project
+
 ### Further reading
 
 -   https://medium.com/quick-code/absolute-beginners-guide-to-slaying-apis-using-python-7b380dc82236
