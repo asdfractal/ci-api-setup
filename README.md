@@ -28,6 +28,7 @@ I created a simple API using the methods shown here to add a JavaScript filter t
 -   [MongoDB](https://www.mongodb.com/)
 -   [Flask PyMongo](https://flask-pymongo.readthedocs.io/en/latest/)
 -   [JSON util](https://api.mongodb.com/python/current/api/bson/json_util.html) - Included in PyMongo
+-   [jsonplaceholder](https://jsonplaceholder.typicode.com/users/) - User data used for the presentation
 
 ### Further reading
 
